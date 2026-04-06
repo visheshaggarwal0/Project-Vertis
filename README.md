@@ -1,12 +1,16 @@
   <h1>VERTIS CRM ⚡</h1>
   <p><strong>Enterprise Operational Intelligence & High-Performance CRM</strong></p>
-  
   <p>
     <img src="https://img.shields.io/badge/React-19.0-blue?style=for-the-badge&logo=react" alt="React 19" />
     <img src="https://img.shields.io/badge/Vite-6.2-purple?style=for-the-badge&logo=vite" alt="Vite" />
     <img src="https://img.shields.io/badge/TailwindCSS-4.1-38B2AC?style=for-the-badge&logo=tailwind-css" alt="Tailwind 4" />
     <img src="https://img.shields.io/badge/TypeScript-5.8-blue?style=for-the-badge&logo=typescript" alt="TypeScript" />
   </p>
+  
+  <img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/67bc31a2-3fe1-48d1-9d79-f8c5046febb7" />
+  <img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/2a372adc-4eec-4899-8353-9b14802a36de" />
+  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8acf24b7-d539-43df-9692-a2baceff5a71" />
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3c832be9-c407-4a29-bd47-d41cd5ee60a2" />
 </div>
 
 <br />
