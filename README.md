@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/TailwindCSS-4.1-38B2AC?style=for-the-badge&logo=tailwind-css" alt="Tailwind 4" />
     <img src="https://img.shields.io/badge/TypeScript-5.8-blue?style=for-the-badge&logo=typescript" alt="TypeScript" />
   </p>
-  
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5ac53f15-e23c-42ff-8978-4e3a0a5c9756" />
   <img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/67bc31a2-3fe1-48d1-9d79-f8c5046febb7" />
   <img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/2a372adc-4eec-4899-8353-9b14802a36de" />
   <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8acf24b7-d539-43df-9692-a2baceff5a71" />
