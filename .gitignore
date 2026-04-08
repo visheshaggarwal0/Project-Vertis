@@ -57,3 +57,8 @@ desktop.ini
 # Misc
 npm-crash.json
 *~
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
